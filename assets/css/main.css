@@ -923,6 +923,8 @@ input, select, textarea {
 
 	ul.icons {
 		cursor: default;
+		display: flex;
+		justify-content: center;
 		list-style: none;
 		padding-left: 0;
 	}
